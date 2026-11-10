@@ -1,0 +1,7 @@
+# One line per model that has no .glb in reference/sketchfab/ :  Title | Author | Licence | URL
+# Example: Low poly plane | SomeAuthor | CC-BY-4.0 | https://sketchfab.com/3d-models/...
+# UNVERIFIED - one line per model. Fill Title | Author | License | URL, then remove the leading "# ".
+# Do not guess. A wrong license line is a false declaration.
+FREE Survival Character (+11 textures) | Arberry (CGTrader) | CGTrader Royalty Free License (no AI) | https://www.cgtrader.com/3d-models/character/man/survival-character
+M4 - FPS Weapon Animations Pack (v.1) | BarcodeGames (https://sketchfab.com/barcodegames) | CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) | https://sketchfab.com/3d-models/m4-fps-weapon-animations-pack-v1-662fc74dda2646cfb48fc610705768ef
+Human character with jumping animation | LukeDale65 (https://sketchfab.com/LukeDale65) | CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) | https://sketchfab.com/3d-models/human-character-with-jumping-animation-8dc73a1346424e53ad02fb05163ead13
